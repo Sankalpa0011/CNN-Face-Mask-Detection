@@ -58,3 +58,5 @@ To run the code in this repository, follow these steps:
 ## Acknowledgements
 
 - The dataset used in this project was sourced from [Kaggle](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset).
+
+---
